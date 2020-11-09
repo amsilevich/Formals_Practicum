@@ -1,7 +1,0 @@
-/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/tests/tests_build/CMakeFiles/rebuild_cache.dir
-/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/tests/tests_build/CMakeFiles/edit_cache.dir
-/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/tests/tests_build/CMakeFiles/test.dir
-/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/tests/tests_build/CMakeFiles/lcov.dir
-/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/tests/tests_build/CMakeFiles/init.dir
-/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/tests/tests_build/CMakeFiles/gcov.dir
-/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/tests/tests_build/CMakeFiles/CoverageForGoogleTests.dir
