@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/constants.h
+stdint.h
+-
+
+/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/handler.h
+string
+-
+stack
+-
+constants.h
+/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/constants.h
+node.h
+/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/node.h
+
+/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/node.h
+stdint.h
+-
+stdlib.h
+-
+iostream
+-
+vector
+-
+
+/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/tests/tests.h
+gtest/gtest.h
+-
+../handler.h
+/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/handler.h
+
+/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/tests/tests_run.cpp
+tests.h
+/home/artem/Рабочий стол/ФОРМАЛКИ/Practicum_1/tests/tests.h
+

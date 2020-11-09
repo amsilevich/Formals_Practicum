@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -g -O0 -Wall -fprofile-arcs -ftest-coverage   CMakeFiles/CoverageForGoogleTests.dir/tests_run.cpp.o  -o CoverageForGoogleTests  -lgtest -lpthread -fprofile-arcs 
