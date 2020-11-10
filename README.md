@@ -29,4 +29,4 @@
 		mkdir coverage/coverage_build/
 		chmod 777 ./src/scripts/run_coverage.sh
 		./src/scripts/run_coverage.sh
-		chromuim /coverage/coverage_build/lcoverage/index.html
+		firefox ./coverage/coverage_build/lcoverage/index.html
