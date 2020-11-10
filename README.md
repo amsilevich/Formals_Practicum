@@ -13,19 +13,19 @@
 
 ### Запуск самого решения
 		git clone https://github.com/amsilevich/Formals_Practicum1.git
-		cd /Formals_Practicum1/
+		cd Formals_Practicum1/
 		chmod 777 ./src/scripts/run.sh
 		./src/scripts/run.sh
 
 ### Тестирование проекта
 		git clone https://github.com/amsilevich/Formals_Practicum1.git
-		cd /Formals_Practicum1/
+		cd Formals_Practicum1/
 		chmod 777 ./src/scripts/run_tests.sh
 		./src/scripts/run_tests.sh
 
 ### Оценка покрытия тестами
 		git clone https://github.com/amsilevich/Formals_Practicum1.git
-		cd /Formals_Practicum1/
+		cd Formals_Practicum1/
 		chmod 777 ./src/scripts/run_coverage.sh
 		./src/scripts/run_coverage.sh
 		chromuim /coverage/coverage_build/lcoverage/index.html
