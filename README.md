@@ -2,6 +2,7 @@
 [TOCM]
 
 [TOC]
+
 # Practicum №1 
 
 ###Общее описание алгоритма
@@ -18,11 +19,12 @@
 		git clone https://github.com/amsilevich/Formals_Practicum1.git
 		chmod 777 ./src/scripts/run.sh
 		./src/scripts/run.sh
-###Тестирование проекта
+
+### Тестирование проекта
 		git clone https://github.com/amsilevich/Formals_Practicum1.git
 		chmod 777 ./src/scripts/run_tests.sh
 		./src/scripts/run_tests.sh
-###Оценка покрытия тестами
+### Оценка покрытия тестами
 		git clone https://github.com/amsilevich/Formals_Practicum1.git
 		chmod 777 ./src/scripts/run_tests.sh
 		./src/scripts/run_tests.sh
